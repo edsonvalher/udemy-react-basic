@@ -20,7 +20,7 @@ const Carrito = ({carrito, agregarProducto}) => {
                         producto = {item}
                         carrito = {carrito}
                         agregarProducto={agregarProducto}
-                    />
+                    /> 
 
                 )
             })
